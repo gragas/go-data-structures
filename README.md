@@ -1,5 +1,5 @@
 # Data Structures
-#### in Go!
+#### *For Go!*
 
 Go doesn't have a lot of data structures, so I thought I'd make my own.
 
